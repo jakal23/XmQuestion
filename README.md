@@ -61,7 +61,7 @@ This Android application is a simple survey tool consisting of two main screens:
 ### Initial Screen
 
 ```
-![Screenshot_20240518_184355](https://github.com/jakal23/XmQuestion/assets/9334960/aea918bf-3cf6-4761-bcb9-7dd6d5526aac)
+![Screenshot_20240518_184355](https://github.com/jakal23/XmQuestion/assets/9334960/83a7d042-546b-43c0-a75f-9d0789b425b9)
 ```
 
 ### Questions Screen
