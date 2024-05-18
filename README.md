@@ -24,7 +24,7 @@ This Android application is a simple survey tool consisting of two main screens:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/survey-app.git
+    git clone https://github.com/jakal23/XmQuestion
     ```
 2. **Open the project** in Android Studio:
     - Start Android Studio.
@@ -99,8 +99,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any inquiries or issues, please contact [yourname@example.com].
-
----
-
-This README provides a comprehensive guide to setting up and using the Survey App. Make sure to replace placeholders like `yourusername`, `yourname@example.com`, and the endpoint URL with actual values relevant to your project.
+For any inquiries or issues, please contact [vahe_gharibyan@epam.com].
