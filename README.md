@@ -61,28 +61,15 @@ This Android application is a simple survey tool consisting of two main screens:
 ### Initial Screen
 
 ```
-+---------------------------+
-|                           |
-|     [ Start survey ]      |
-|                           |
-+---------------------------+
+![Screenshot_20240518_184355](https://github.com/jakal23/XmQuestion/assets/9334960/aea918bf-3cf6-4761-bcb9-7dd6d5526aac)
 ```
 
 ### Questions Screen
 
 ```
-+---------------------------+
-|  Submitted: X out of Y    |
-|---------------------------|
-|  Question text here...    |
-|                           |
-|  [Answer input field]     |
-|                           |
-|  [ Previous ] [ Next ]    |
-|                           |
-|         [ Submit ]        |
-+---------------------------+
+![Screenshot_20240518_184420](https://github.com/jakal23/XmQuestion/assets/9334960/08320d39-02d3-447c-a1fd-0f22fce3401d)
 ```
+![Screenshot_20240518_184443](https://github.com/jakal23/XmQuestion/assets/9334960/6e625f37-3651-456d-9589-01168bb85dc5)
 
 ## Notes
 
